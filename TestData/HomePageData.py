@@ -1,0 +1,2 @@
+class HomePageData1:
+    test_homepage_data=[{"Name":"csr1","email":"cs1@gamil.com","Password":"cs1234","Gender":"Female"},{"Name":"csr2","email":"cs2@gamil.com","Password":"cs1234","Gender":"Female"}]
